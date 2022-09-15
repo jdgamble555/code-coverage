@@ -98,7 +98,9 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "codeCoverage": true,
+            "codeCoverageExclude": ["src/app/myfolder/**/*"]
           }
         }
       }
